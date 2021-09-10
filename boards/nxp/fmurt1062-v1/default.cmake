@@ -102,7 +102,7 @@ px4_add_board(
 		perf
 		pwm
 		reboot
-		reflect
+		#reflect
 		sd_bench
 		#serial_test
 		system_time
